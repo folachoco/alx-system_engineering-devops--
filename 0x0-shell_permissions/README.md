@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell script permission
+A Script about Shell Permissions
